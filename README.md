@@ -1,2 +1,2 @@
 # cfo-think-python.io
- examples and exercises from the "how to think like a computer scientist: learning with python 3 documentation, released 3rd edition" book
+Examples and Exercises from the "How to Think Like a Computer Scientist: Learning with Python 3 Documentation, Release 3rd Edition" book.
