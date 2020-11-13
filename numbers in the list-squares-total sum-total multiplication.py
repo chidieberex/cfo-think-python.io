@@ -41,3 +41,4 @@ for c in xs:
     print(total)
 print(total)
 '''
+#also having difficulty saving this file. just giving it another try.
